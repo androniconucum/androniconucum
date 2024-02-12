@@ -82,7 +82,6 @@
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     </a>
 </div>
-
 <br />
 <h2 align="center"> 🐍 Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/androniconucum/androniconucum/output/github-contribution-grid-snake.svg" />
