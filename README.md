@@ -84,6 +84,6 @@
 </div>
 
 <br />
-<h2> 🐍 Contributions 🐍</h2>
+<h2 align="center"> 🐍 Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/androniconucum/androniconucum/output/github-contribution-grid-snake.svg" />
 
