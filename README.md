@@ -11,11 +11,13 @@
 <br/>
 
 <div align="center">
-    🌱 I'm currently learning HTML, CSS, and JAVASCRIPT <br/>
-    ⚡ Fun fact I absolutely love traveling! Exploring new places and experiencing different cultures
+    🌱 I'm currently learning HTML, CSS, and JAVASCRIPT
+    
+    ⚡ Fun fact  I absolutely love traveling! Exploring new places and experiencing different cultures
+
+    
 </div>
 
-<br/>
 <div align="center">
         <a href="mailto:nicounwntdmain@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -78,6 +80,9 @@
     <a href="">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     </a>
-
 </div>
+
+<br />
+<h2> 🐍 Contributions 🐍</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/androniconucum/androniconucum/output/github-contribution-grid-snake.svg" />
 
