@@ -11,13 +11,11 @@
 <br/>
 
 <div align="center">
-    🌱 I'm currently learning HTML, CSS, and JAVASCRIPT
-    
-    ⚡ Fun fact  I absolutely love traveling! Exploring new places and experiencing different cultures
-
-    
+    🌱 I'm currently learning HTML, CSS, and JAVASCRIPT <br/>
+    ⚡ Fun fact I absolutely love traveling! Exploring new places and experiencing different cultures
 </div>
 
+<br/>
 <div align="center">
         <a href="mailto:nicounwntdmain@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
