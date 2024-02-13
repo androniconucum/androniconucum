@@ -81,6 +81,12 @@
     <a href="">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     </a>
+     <a href="">
+         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />
+     </a>
+    <a href="">
+         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+     </a>
 </div>
 <br />
 <hr/>
