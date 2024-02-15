@@ -6,7 +6,7 @@
     </a>
 </h1>   
 
-<h3 align="center"> A Computer Science student from the Philippines </h3>
+<h3 align="center"> Aspiring Front-End Developer </h3>
 
 <br/>
 
