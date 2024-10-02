@@ -10,12 +10,6 @@
 
 <br/>
 
-<div align="center">
-    🌱 I'm currently learning HTML, CSS, and JAVASCRIPT <br/>
-    ⚡ Fun fact  I absolutely love traveling! Exploring new places and experiencing different cultures
-
-    
-</div>
 
 <br/>
 
